@@ -147,7 +147,7 @@ Copy the all of the files from the `Tinvaak/Game Folder Files` directory into yo
 
 ### ENB
 
-Tinvaak comes with two custom tweaked ENB's and [Tolls ENB Manager](https://www.nexusmods.com/skyrimspecialedition/mods/37469) is included to help facilitate the easy changing of ENB profiles. To setup the ENB manager:
+Tinvaak comes with two ENB's and [Tolls ENB Manager](https://www.nexusmods.com/skyrimspecialedition/mods/37469) is included to help facilitate the easy changing of ENB profiles. To setup the ENB manager:
 
 1. Open up the folder called Tools where you have the modlist installed.
 2. Navigate to the folder called Tolls ENB Manager and open it.
@@ -165,7 +165,6 @@ Should you wish to use a different ENB, hare are some other ENB's which are know
 
 - [Ruvaak Dahmaan](https://www.nexusmods.com/skyrimspecialedition/mods/6009)
 - [Rudy](https://www.nexusmods.com/skyrimspecialedition/mods/4796)
-- [Re-Engaged](https://www.nexusmods.com/skyrimspecialedition/mods/1089) **Has working Night Eye**
 
 ## How to start up Tinvaak
 
@@ -287,7 +286,7 @@ I highly recommend using [BethINI](https://www.nexusmods.com/skyrimspecialeditio
 
 ### Tweaking the ENB
 
-By default, Tinvaak ships with two ENB profiles that have been custom tweaked to match the modlist. These are [Organic ENB](https://www.nexusmods.com/skyrimspecialedition/mods/2876) and [The Truth](https://www.nexusmods.com/skyrimspecialedition/mods/9162). If you wish to make changes to them to better suit your visual preferences, follow the information below.
+By default, Tinvaak ships with an ENB profile that has been custom tweaked to match the modlist. This is [Organic ENB](https://www.nexusmods.com/skyrimspecialedition/mods/2876) and has been modified to help it fit with the list better. [Re-Engaged ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1089/?tab=files&file_id=203633) is also included if you prefer a different colour pallet. If you wish to make changes to them to better suit your visual preferences, follow the information below.
 
 To remove the letterbox effect:
 - Press [Shift+Enter] to open the ENB menu
