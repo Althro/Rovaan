@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.4.5 - Minor update
+
+Note: Tiny update to replace hidden mods and update some smaller ones.
+
+**Build at:** `03/07/2021 12:00:37`
+
+**Download Changes**:
+
+- Updated [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148/?tab=files&file_id=211471)
+- Updated [Grass FPS Booster](https://www.nexusmods.com/skyrimspecialedition/mods/20082/?tab=files&file_id=211216)
+- Updated [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250/?tab=files&file_id=211462)
+- Updated [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854/?tab=files&file_id=211753)
+- Updated [NPC AI Process Position  Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/40261/?tab=files&file_id=211343)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=211396)
+- Removed [Spider Webs and Particles for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/29872/?tab=files&file_id=111030)
+- Removed [The Truth ENB](https://www.nexusmods.com/skyrimspecialedition/mods/9162/?tab=files&file_id=135009)
+- Added [SkyrimSE Re-Engaged ENB](https://www.nexusmods.com/skyrimspecialedition/mods/1089/?tab=files&file_id=203633)
+
 ## 1.4.3 - Hotfix & Minor addition
 
 **Should be save compatible but new save recommended due to updated lods.**
