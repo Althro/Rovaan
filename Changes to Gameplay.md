@@ -10,7 +10,7 @@ Various other gameplay mods used include:
 
 1. [Experience](https://www.nexusmods.com/skyrimspecialedition/mods/17751) drastically changes how pacing in the game is done. Rather than only getting experience on skill level ups, you now gain experience level for completing quests and killing monsters.
 
-2. [Class Overhaul Re Imagined(CORI)](https://www.nexusmods.com/skyrimspecialedition/mods/24808), [Early Life Skill Adjustment(ELSA)](https://www.nexusmods.com/skyrimspecialedition/mods/23126) and [Attribute Value Application(AVA)](https://www.nexusmods.com/skyrimspecialedition/mods/23329) form the core of the roleplaying overhaul mods. Your character will now develop and can specialise in areas right from the start.
+2. [Class Overhaul Re Imagined(CORI)](https://www.nexusmods.com/skyrimspecialedition/mods/24808) and [Early Life Skill Adjustment(ELSA)](https://www.nexusmods.com/skyrimspecialedition/mods/23126) form the core of the roleplaying overhaul mods. Your character will now develop and can specialise in areas right from the start.
 
 3. [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686) is a streamlined race overhaul designed to make races more meaningful without making them more restrictive. Greater powers have been removed in favor of modest but desirable passives. Although each race has been designed to fill a specific role, the nature of these bonuses allow for a broad range of builds to benefit from them. 
 
