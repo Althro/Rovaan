@@ -52,16 +52,30 @@ Improvise, Adapt, Survive. Welcome to Tinvaak, a modlist for SkyrimSE that focus
 
 ## System Requirements
 
+Tinvaak is aimed at mid to higher end machines in terms of system requirements.
+
+Recommended Specs for 1080p:
+
+- 2nd Gen Ryzen / 7th Gen Intel i5 or better
+- 16GB Ram
+- SSD
+- 6GB GPU such as GTX 1660 Super or RX 5600xt
+
+Recommended Specs for 1440p:
+
+- 3rd Gen Ryzen / 9th Gen Intel i5 or better
+- 32GB Ram
+- NVME SSD
+- 8GB GPU such as RTX 3070 or RX 6700XT
+
 I run the list at locked 72fps with a few dips here and there at 1440p on the following specs:
 
 - Ryzen 5 3600
-- AMD RX 6800
-- 32GB RAM
-- PCIe Based SSD
+- 32GB 3600mhz Ram
+- PCIe Based NVME SSD
+- XFX RX 6800 16GB
 
-I recommend that you have at least 6GB vram to run the list comfortably at 1080p with an ENB. You may be able to run the list with 4GB, but expect performance to be sub-optimal. For 1440p, you will need at least 8GB or more of vram to achieve a steady framerate. The list will not work optimily if installed on a HDD, I advise you to install it onto an SSD.
-
-Space required: Approx 136GB
+Space required: Approx 140GB
 
 ## Installation
 
@@ -96,6 +110,8 @@ Open the Steam Properties window, navigate to the _Language_ tab and select _Eng
 #### Clean Skyrim
 
 I highly recommend uninstalling the game through Steam, deleting the game folder and reinstalling it. You should also clean up the `Skyrim Special Edition` folder in `Documents/My Games/` by deleting the contents in it. Alternatively, use the [Shredder](https://www.nexusmods.com/skyrimspecialedition/mods/30133) to complelety wipe the game.
+
+### It is *vital* that your Binkw64.dll is unmodified and *not* a replacement from another mod. If you have a version that is not 292KB in size, delete it and verify your game files.
 
 #### Start Skyrim
 
@@ -160,11 +176,6 @@ Tinvaak comes with two ENB's and [Tolls ENB Manager](https://www.nexusmods.com/s
 9. Press the Save button.
 10. To enable the profile, click on the white circle slider.
 11. Your chosen ENB Profile is now installed.
-
-Should you wish to use a different ENB, hare are some other ENB's which are known to work with the list:
-
-- [Ruvaak Dahmaan](https://www.nexusmods.com/skyrimspecialedition/mods/6009)
-- [Rudy](https://www.nexusmods.com/skyrimspecialedition/mods/4796)
 
 ## How to start up Tinvaak
 
@@ -258,6 +269,8 @@ Hold right click to block while dual wielding. Left click alternates left and ri
 
 ### Ultrawide Options
 
+I do not use an Ultrawide monitor thus cannot offer support beyond what is below.
+
 If you have an ultrawide monitor (21:9), the UI will be off. You will want to enable Oblivion Loading Screens 21x9, and disable 16x9.
 
 You will also want to install the SkyUI, Better Dialogue Controls, Better messagebox Controls, Campfire, Experience, Racemenu, Flashing Savegame Fix, and Extended UI - High Resolution Widescreen fixes from [here](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?).
@@ -273,8 +286,6 @@ When installing Customizable UI, rename it to indicate that is the LIH version, 
 You will also need to reinstall the mod *Dialogue Interface Reshaped* and select your resolution in there.
 
 Once you get in game, head over to the Less Intrusive HUD modpage and see how to alter the postion/size/color/and much more of any HUD aspect, all ingame!
-
-If you have further questions regarding 21:9 or these instructions, feel free to ping St. Jiub in #list-modifications in the Jorrvaskr server.
 
 ### Tweaking the Game Settings
 
@@ -358,11 +369,12 @@ You can just delete the MO2 folder and be done with it.
 - iXanza for recompiled MCM scripts for automation, and helping Shelb figure out how to automate the MCMs for Tinvaak.
 - Halgari and everyone the WJ Team - Wabbajack is awesome and so are you.
 - Mantis for Ultrawide installation instructions and the logo.
-- St Jiub for additional Ultrawide instructions and help around the server.
+- St Jiub for additional Ultrawide instructions.
+- My amazing Patreons.
 
 ## Contact
 
-Whilst I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) I would advise checking the [Issues](https://github.com/Althro/Tinvaak/issues) (open **and** closed ones) on GitHub first if you have any problems. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
+Whilst I'm always available on the [Wabbajack Discord](https://discord.gg/wabbajack) and my server, I would advise checking the [Issues](https://github.com/Althro/Tinvaak/issues) (open **and** closed ones) on GitHub first if you have any problems. **DO NOT DM ME ON DISCORD. I WILL NOT PROVIDE SUPPORT FOR YOU IN DMS**.
 
 ## Contributing
 
