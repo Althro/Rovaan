@@ -1,5 +1,24 @@
 # Changelog
 
+## 1.4.6 - Minor Update
+
+**Note**: ***Not Save Compatible*** due to changing follower framework.
+
+**Build at:** `07/07/2021 21:56:49`
+
+**Info**:
+
+- Download Size change: -1.3GB (Total: 67.3GB)
+- Install Size change: 6.3MB (Total: 78.1GB)
+
+**Download Changes**:
+
+- Updated [Extended Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/44810/?tab=files&file_id=211885)
+- Removed [Nether's Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/18076/?tab=files&file_id=206478)
+- Added [Leadership](https://www.nexusmods.com/skyrimspecialedition/mods/47134/?tab=files&file_id=201588)
+- Added [Leadership - Custom Skill Framework Extension](https://www.nexusmods.com/skyrimspecialedition/mods/51764/?tab=files&file_id=212319)
+- Added [Minimalistic Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/47549/?tab=files&file_id=193622)
+
 ## 1.4.5 - Minor update
 
 Note: Tiny update to replace hidden mods and update some smaller ones.
